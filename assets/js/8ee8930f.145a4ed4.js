@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreduce_rodeo=self.webpackChunkreduce_rodeo||[]).push([[8152],{9248:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/reduce-rodeo/blog/tags/docusaurus","allTagsPath":"/reduce-rodeo/blog/tags","count":4,"unlisted":false}')}}]);

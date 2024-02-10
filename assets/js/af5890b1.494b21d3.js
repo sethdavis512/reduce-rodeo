@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreduce_rodeo=self.webpackChunkreduce_rodeo||[]).push([[6400],{3248:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/reduce-rodeo/blog/tags/hola","allTagsPath":"/reduce-rodeo/blog/tags","count":1,"unlisted":false}')}}]);

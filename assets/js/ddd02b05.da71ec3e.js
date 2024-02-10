@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkreduce_rodeo=self.webpackChunkreduce_rodeo||[]).push([[4656],{3032:e=>{e.exports=JSON.parse('{"permalink":"/reduce-rodeo/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

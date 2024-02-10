@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreduce_rodeo=self.webpackChunkreduce_rodeo||[]).push([[304],{3564:(e,r,c)=>{c.r(r),c.d(r,{default:()=>t});c(1504);var s=c(5456),u=c(5756),d=c(5864),a=c(5464),o=c(9012),n=c(7624);function t(e){return(0,n.jsx)(u.cr,{className:(0,s.c)(d.W.wrapper.docsPages),children:(0,n.jsx)(o.c,{children:(0,a.k)(e.route.routes)})})}}}]);

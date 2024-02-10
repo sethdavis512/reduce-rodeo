@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkreduce_rodeo=self.webpackChunkreduce_rodeo||[]).push([[2588],{2080:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

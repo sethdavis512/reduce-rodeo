@@ -2,9 +2,9 @@
 sidebar_position: 6
 ---
 
-# Key by
+# Group
 
 ```js
-const keyBy = (arr, objKey) =>
+const groupBy = (arr, objKey) =>
     arr.reduce((acc, cur) => ({ ...acc, [cur[objKey]]: cur }), {});
 ```

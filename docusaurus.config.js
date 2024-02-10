@@ -8,12 +8,12 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'My Site',
-    tagline: 'Dinosaurs are cool',
+    title: 'Reduce Rodeo',
+    tagline: `Reducin' them arrays y'all`,
     favicon: 'img/favicon.ico',
 
     // Set the production url of your site here
-    url: 'https://your-docusaurus-site.example.com',
+    url: 'https://sethdavis512.github.io',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
     baseUrl: '/reduce-rodeo/',
@@ -123,7 +123,7 @@ const config = {
                     //     ]
                     // }
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`
+                copyright: `Copyright © ${new Date().getFullYear()} Reduce Rodeo, Inc. Built with Docusaurus.`
             },
             prism: {
                 theme: prismThemes.github,

@@ -8,7 +8,7 @@ sidebar_position: 6
 const [state, dispatch] = useReducer(reducer, initialArg, init?)
 ```
 
-```js
+```jsx
 import { useReducer } from 'react';
 
 function reducer(state, action) {
